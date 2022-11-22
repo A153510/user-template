@@ -1,0 +1,6 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+spec:
+    profile:
+        displayName: John Thomas
+        email: john_h_thomas@progressive.com
