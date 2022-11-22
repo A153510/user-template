@@ -8,4 +8,4 @@ spec:
    profile:
       displayName: edcs-babi
    children: []
-   parent: information-technology
+   parent: it

@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   namespace: default
-  name: information-technology
+  name: it
 spec:
   type: department
   profile:
