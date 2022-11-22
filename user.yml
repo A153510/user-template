@@ -1,5 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
+metadata:
+    name: john
 spec:
     profile:
         displayName: John Thomas
