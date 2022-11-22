@@ -1,8 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-    name: user-john
+    namespace: default
+    name: a153510
 spec:
     profile:
         displayName: John Thomas
         email: john_h_thomas@progressive.com
+    memberOf:
+        - edcs-babi
